@@ -6,7 +6,7 @@ Application qui recherche les films grâce à une gem de Movie Database ! ;)
 
 Salut moussaillon tu vas bien ? 
 
-Pour voir l'appli en production, voici le lien : https://the-movie-search.herokuapp.com.
+Pour voir l'appli en production, voici le lien : https://movie-search-sixters.herokuapp.com/.
 
 Dans ce README il y a un exo d'une app rails, avec des models et des controllers. Cette appli a été réalisée par Diane à l'aide des six stars !
 
